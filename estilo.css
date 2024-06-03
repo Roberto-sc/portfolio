@@ -109,7 +109,7 @@
             max-width: 700px;
             margin: 25px auto;
             font-size: 18px;
-            text-align: center;
+            text-align: justify;
         }
         
         #inicio .contenido .presentacion a {
@@ -194,6 +194,8 @@
             line-height: 25px;
             color: #565656;
             margin-bottom: 12px;
+            text-align: justify;
+            
         }
         #sobremi .sobremi p:hover{
            color: #209FBF;
@@ -287,6 +289,7 @@
         #servicios .fila .servicio p {
             font-size: 14px;
             line-height: 22px;
+            text-align: left;
         }
         /* *********************/
         /* seccion P O R T F O L I O */
