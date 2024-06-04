@@ -107,9 +107,9 @@
         
         #inicio .contenido .presentacion .descripcion {
             max-width: 700px;
-            margin: 25px auto;
+            margin: 25px  auto 1px auto;
             font-size: 18px;
-            text-align: justify;
+            text-align: left;
         }
         
         #inicio .contenido .presentacion a {
