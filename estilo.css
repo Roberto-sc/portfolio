@@ -349,6 +349,18 @@
             bottom: -40px;
             transition: .5s;
         }
+
+        #portfolio .fila .proyecto .info a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+
+        #portfolio .fila .proyecto .info a:hover {
+            text-decoration: underline;
+            color: #209FBF;
+        }
+
         
         #portfolio .fila .proyecto:hover .info {
             opacity: 1;
